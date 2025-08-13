@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "zzxgp docs",
+  "name": "zzchecker docs",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -17,10 +17,7 @@
             "group": "Get Started",
             "pages": [
               "index",
-              "bottutorial",
-              "howtologin",
-              "howtologin_cookies",
-              "howtologin_cs2"
+              "checkertutorial"
             ]
           }
         ]
@@ -30,7 +27,7 @@
       "anchors": [
         {
           "anchor": "Join Our Discord",
-          "href": "https://discord.zzxgp.me/",
+          "href": "https://discord.com/invite/EXVRjrFBx3",
           "icon": "discord"
         }
       ]
@@ -44,8 +41,8 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.zzxgp.me/",
-      "website": "https://zzxgp.me/"
+      "discord": "https://discord.com/invite/EXVRjrFBx3",
+      "website": "https://checker.zzxgp.me/"
     }
   }
 }

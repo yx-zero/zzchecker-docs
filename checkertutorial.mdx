@@ -1,0 +1,44 @@
+---
+title: Checker Tutorial
+description: ""
+---
+
+## Config
+
+the config is in toml format
+
+`key` : where you put your key
+
+### checking config
+
+`output_mode` : output mode, **validonly** if you only want to see valid accounts, and **all** if you want to see all
+
+`max_concurrency` : max concurrency, I recommend your proxy amount x 2
+
+`max_retries` : max retries for every step, leave unchanged if you dont know what it is
+
+`max_timeout` : max timeout for every request, leave unchanged if you dont know what it is
+
+### saver
+
+`save_invalid` : save invalid accounts to results or not, true or false
+
+`save_2fa` : save 2fa accounts to results or not, true or false
+
+`save_banned` : save banned accounts to results or not, true or false
+
+### change name skin
+
+`change_name` : change minecraft name or not, true or false
+
+`new_name` : new name to change to, supported placeholders: `{{.Randomchar}}, {{.Month}}, {{.Date}}`
+
+`change_skin` : change minecraft skin or not, true or false
+
+`new_skin` : new skin url
+
+## files
+
+`combo_file` : combo filename or directory + filename
+
+`proxy_file` : proxy filename or directory + filename
