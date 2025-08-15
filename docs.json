@@ -26,9 +26,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Join Our Discord",
-          "href": "https://discord.com/invite/EXVRjrFBx3",
-          "icon": "discord"
+          "anchor": "Join Our Telegram",
+          "href": "https://t.me/+UDhQtHMSabRjYzNh",
+          "icon": "telegram"
         }
       ]
     }
@@ -41,7 +41,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.com/invite/EXVRjrFBx3",
+      "telegram": "https://t.me/+UDhQtHMSabRjYzNh",
       "website": "https://checker.zzxgp.me/"
     }
   }
